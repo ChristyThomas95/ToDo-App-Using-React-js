@@ -20,7 +20,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Screenshots
-![App Screenshot
+![App Screenshot](https://github.com/ChristyThomas95/ToDo-App-Using-React-js/blob/master/Screenshot.gif)
 
 ## Contributing
 
